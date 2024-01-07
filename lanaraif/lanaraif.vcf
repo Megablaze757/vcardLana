@@ -1,0 +1,36 @@
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=UTF-8:Raif;Lana;; ;
+FN: Lana Raif
+ORG:Ruuby
+COMPANY:Ruuby
+TITLE:Concierge & Partnerships Manager
+
+ADR;CHARSET=UTF-8;TYPE=WORK:;;;;;;
+TEL;TYPE=Work,pref:+4477 3436 0385
+TEL;CELL;TYPE=Mobile,VOICE:
+TEL;TYPE=WORK,VOICE:
+
+TEL;TYPE=Work,Fax:
+TEL;TYPE=Home,VOICE:
+TEL;TYPE=sms:
+URL;TYPE=Messenger:
+TEL;TYPE=SIGNAL:
+EMAIL;TYPE=Email:lana@ruuby.com
+URL;TYPE=Digital Business Card:
+
+
+URL;TYPE=Location:
+KEY:OPENPGP4FPR:
+UID:SMART vCARD-100297697
+URL;TYPE=Website:https://ruuby.com
+URL;TYPE=Calendar:
+URL;TYPE=WhatsApp:
+
+
+URL;TYPE=Instagram:https://instagram.com/ruubyapp
+
+PHOTO;ENCODING=b:
+NOTE;CHARSET=UTF-8:
+
+END:VCARD
